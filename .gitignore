@@ -1,0 +1,5 @@
+__pycache__
+lms.db
+openapi.json
+venv
+uploads
